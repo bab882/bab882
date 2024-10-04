@@ -1,15 +1,19 @@
-## Hi there 👋
+<h3>Hi there ! 👋</h3> 
+
 
 I'm <a href="https://bab-codes.fr/" target="_blank">Bab</a>, a Full Stack Developer based in France.
 
-passionate about creating web applications and seamless user experiences. I have worked on various projects that have allowed me to gain expertise 
-in React, Symfony, JavaScript, CSS, and much more. Here’s some information about me and what I do:
+I am passionate about creating web applications and seamless user experiences. I love blending different technologies to bring my projects to life, 
+and I’ve been fortunate to work on various initiatives that have allowed me to gain solid expertise.
 
 
-Fun Fact:
+I am currently immersed in various private projects that will not be made public on GitHub, fueling my passion for development while allowing me to explore the latest technologies.
+
+
+<h4>Fun Fact :</h4>
 <ul>
-  <li>I like drink coffee</li>
-  <li></li>
+  <li>I code with a cup of coffee !</li>
+  <li>I love experimenting in the kitchen, but I usually end up ordering pizza !</li>
 </ul>
 <!--
 **bab882/bab882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
