@@ -1,7 +1,7 @@
-<h3>Hi there ! I'm <a href="https://bab-codes.fr/" target="_blank">Bab</a>👋</h3> 
+<h3>Hi there ! 👋</h3> 
 
 
-, a Full Stack Developer based in France.
+I'm <a href="https://bab-codes.fr/" target="_blank">Bab</a>, a Full Stack Developer based in France.
 
 I am passionate about creating web applications and seamless user experiences. I love blending different technologies to bring my projects to life, 
 and I’ve been fortunate to work on various initiatives that have allowed me to gain solid expertise.
