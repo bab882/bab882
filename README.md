@@ -16,6 +16,10 @@ I am currently immersed in various private projects that will not be made public
   <li>I code with a cup of coffee !</li>
   <li>I love experimenting in the kitchen, but I usually end up ordering pizza !</li>
 </ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_REPO/output/github-contribution-grid-snake.svg" />
+</p>
 <!--
 **bab882/bab882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
