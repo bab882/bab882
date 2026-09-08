@@ -18,7 +18,7 @@ I am currently immersed in various private projects that will not be made public
 </ul>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_REPO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bab882/snake.yml/output/github-contribution-grid-snake.svg" />
 </p>
 <!--
 **bab882/bab882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
